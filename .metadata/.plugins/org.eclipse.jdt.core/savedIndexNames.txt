@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Uczelnia\UTP\Worksprace\.metadata\.plugins\org.eclipse.jdt.core
+615278502.index
+884575030.index
+3176006055.index
+3844257894.index

@@ -1,0 +1,9 @@
+package zad3;
+
+public class ProgLang {
+
+	public ProgLang(String string) {
+		// TODO Auto-generated constructor stub
+	}
+
+}
